@@ -18,5 +18,10 @@ Featutes:
    ```bash
    sudo python main.py
 
+<img width="1043" height="892" alt="Снимок экрана 2026-02-18 в 23 38 43" src="https://github.com/user-attachments/assets/a1ef6d7d-7d7a-4e72-8273-866485286c90" />
+
+
+
+
 
 
